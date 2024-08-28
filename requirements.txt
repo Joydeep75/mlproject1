@@ -1,0 +1,7 @@
+# This is the file where all the packages that need to be installed/used during the development.
+pandas
+numpy
+seaborn
+
+# This will automatically trigger setup.py and will build a package wrappingup/for this project
+-e .
